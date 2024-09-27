@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EvenOrodd", "06.EvenOrod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Speed", "07.Speed\07.Speed.csproj", "{4992D91C-5CC2-4432-A3F8-0975D6493915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.AddressByAgeAndGender", "09.AddressByAgeAndGender\09.AddressByAgeAndGender.csproj", "{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4992D91C-5CC2-4432-A3F8-0975D6493915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4992D91C-5CC2-4432-A3F8-0975D6493915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4992D91C-5CC2-4432-A3F8-0975D6493915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
