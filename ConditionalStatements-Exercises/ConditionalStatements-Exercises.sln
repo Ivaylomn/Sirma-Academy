@@ -3,21 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Marks", "01.Marks\01.Marks.csproj", "{E46F8085-64BE-479B-B143-0E49811A4D7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Marks", "01.Marks\01.Marks.csproj", "{E46F8085-64BE-479B-B143-0E49811A4D7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LargerNumber", "02.LargerNumber\02.LargerNumber.csproj", "{F846DAA5-99C1-4F0F-8E6B-F62BD22B645D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LargerNumber", "02.LargerNumber\02.LargerNumber.csproj", "{F846DAA5-99C1-4F0F-8E6B-F62BD22B645D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NumberFrom0To9WithWords", "03.NumberFrom0To9WithWords\03.NumberFrom0To9WithWords.csproj", "{631C455D-CAB3-4C22-B358-F2779EED0153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.NumberFrom0To9WithWords", "03.NumberFrom0To9WithWords\03.NumberFrom0To9WithWords.csproj", "{631C455D-CAB3-4C22-B358-F2779EED0153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FaceOfFigures", "04.FaceOfFigures\04.FaceOfFigures.csproj", "{660D8F75-2A2B-4456-BBDF-D2463FFDF77D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FaceOfFigures", "04.FaceOfFigures\04.FaceOfFigures.csproj", "{660D8F75-2A2B-4456-BBDF-D2463FFDF77D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DayOfTheWeek", "05.DayOfTheWeek\05.DayOfTheWeek.csproj", "{415DE7F1-2D68-49F0-94A6-6CF3082496FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DayOfTheWeek", "05.DayOfTheWeek\05.DayOfTheWeek.csproj", "{415DE7F1-2D68-49F0-94A6-6CF3082496FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EvenOrodd", "06.EvenOrodd\06.EvenOrodd.csproj", "{E4A16BB4-2C6D-4F4C-B7A0-D8D9FF26E22C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EvenOrodd", "06.EvenOrodd\06.EvenOrodd.csproj", "{E4A16BB4-2C6D-4F4C-B7A0-D8D9FF26E22C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Speed", "07.Speed\07.Speed.csproj", "{4992D91C-5CC2-4432-A3F8-0975D6493915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Speed", "07.Speed\07.Speed.csproj", "{4992D91C-5CC2-4432-A3F8-0975D6493915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.AddressByAgeAndGender", "09.AddressByAgeAndGender\09.AddressByAgeAndGender.csproj", "{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.AddressByAgeAndGender", "09.AddressByAgeAndGender\09.AddressByAgeAndGender.csproj", "{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Grocery", "10.Grocery\10.Grocery.csproj", "{088730B5-7813-48A9-AF9D-F5A491556337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.NumberInTherange", "11.NumberInTherange\11.NumberInTherange.csproj", "{0ECCA5E7-DC5C-4F3C-9112-030B8259E3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.SimpleCalculator", "12.SimpleCalculator\12.SimpleCalculator.csproj", "{2902312D-0FBD-4885-8C77-28827DEEFCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.VegetableMarket", "13.VegetableMarket\13.VegetableMarket.csproj", "{DDDBDDC2-9B89-4A7E-B126-A59355DAF144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBACD7A8-1DD2-40F4-8CAF-65DAD1ADD83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088730B5-7813-48A9-AF9D-F5A491556337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088730B5-7813-48A9-AF9D-F5A491556337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088730B5-7813-48A9-AF9D-F5A491556337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088730B5-7813-48A9-AF9D-F5A491556337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECCA5E7-DC5C-4F3C-9112-030B8259E3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECCA5E7-DC5C-4F3C-9112-030B8259E3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECCA5E7-DC5C-4F3C-9112-030B8259E3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECCA5E7-DC5C-4F3C-9112-030B8259E3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2902312D-0FBD-4885-8C77-28827DEEFCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2902312D-0FBD-4885-8C77-28827DEEFCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2902312D-0FBD-4885-8C77-28827DEEFCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2902312D-0FBD-4885-8C77-28827DEEFCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDBDDC2-9B89-4A7E-B126-A59355DAF144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDBDDC2-9B89-4A7E-B126-A59355DAF144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDBDDC2-9B89-4A7E-B126-A59355DAF144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDBDDC2-9B89-4A7E-B126-A59355DAF144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
