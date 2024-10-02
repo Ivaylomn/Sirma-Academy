@@ -1,4 +1,6 @@
-﻿namespace _09.SumOfEvenNumbers
+﻿using System;
+
+namespace SumOfEvenNumbers
 {
     internal class Program
     {
@@ -9,13 +11,12 @@
             int sum = 0;
             for (int i = 1; i <= n; i++)
             {
-                if (i % 2 == 0)
-                {
-                    sum += 2 * i;
-                }
+                // Първото четно число е 2 * 1, второто е 2 * 2 и т.н.
+                int evenNumber = 2 * i;
+                sum += evenNumber;
             }
 
-            Console.WriteLine(sum);
+            Console.WriteLine($"Sum: {sum}");
         }
     }
 }
