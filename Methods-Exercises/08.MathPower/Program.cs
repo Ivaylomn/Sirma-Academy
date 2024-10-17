@@ -9,9 +9,16 @@
             Console.WriteLine(MathPow(number, pow));
         }
 
-        public static double MathPow(double a, int b) 
+        public static double MathPow(double a, int b)
         {
-            return Math.Pow(a, b);
+            //return Math.Pow(a, b);
+            double result = 1;
+            for (int i = 1; i <= b; i++)
+            {
+                result *= a;
+            }
+
+            return result;
         }
     }
 }
