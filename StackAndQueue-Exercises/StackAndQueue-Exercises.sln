@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseNumbersStack", "01.ReverseNumbersStack\01.ReverseNumbersStack.csproj", "{F9C64DBC-2C21-4CF3-8F39-5044E3FD1C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseNumbersStack", "01.ReverseNumbersStack\01.ReverseNumbersStack.csproj", "{F9C64DBC-2C21-4CF3-8F39-5044E3FD1C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BasicStackOperations", "02.BasicStackOperations\02.BasicStackOperations.csproj", "{8FD0E065-20B3-4934-85D2-FF6E112B604F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Browser", "03.Browser\03.Browser.csproj", "{B0BE43F4-BFD0-4652-A209-D9F1DA0EF888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F9C64DBC-2C21-4CF3-8F39-5044E3FD1C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9C64DBC-2C21-4CF3-8F39-5044E3FD1C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9C64DBC-2C21-4CF3-8F39-5044E3FD1C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD0E065-20B3-4934-85D2-FF6E112B604F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD0E065-20B3-4934-85D2-FF6E112B604F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD0E065-20B3-4934-85D2-FF6E112B604F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD0E065-20B3-4934-85D2-FF6E112B604F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BE43F4-BFD0-4652-A209-D9F1DA0EF888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BE43F4-BFD0-4652-A209-D9F1DA0EF888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BE43F4-BFD0-4652-A209-D9F1DA0EF888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BE43F4-BFD0-4652-A209-D9F1DA0EF888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
