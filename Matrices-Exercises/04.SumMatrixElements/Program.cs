@@ -20,8 +20,7 @@
                 }
             }
 
-            Console.WriteLine(matrix.GetLength(0));
-            Console.WriteLine(matrix.GetLength(1));
+            
             Console.WriteLine(matrixSum);
         }
     }

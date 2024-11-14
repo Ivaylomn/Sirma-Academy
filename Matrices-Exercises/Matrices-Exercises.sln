@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CompareMatrices", "01.CompareMatrices\01.CompareMatrices.csproj", "{6F02D51C-C332-4D33-A563-BE3E99C00519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CompareMatrices", "01.CompareMatrices\01.CompareMatrices.csproj", "{6F02D51C-C332-4D33-A563-BE3E99C00519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MatrixAddition", "02.MatrixAddition\02.MatrixAddition.csproj", "{CAB6E8EC-A6DC-4CF9-8103-FDB7FC783AC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MatrixAddition", "02.MatrixAddition\02.MatrixAddition.csproj", "{CAB6E8EC-A6DC-4CF9-8103-FDB7FC783AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.IntersectionTwoMatrices", "03.IntersectionTwoMatrices\03.IntersectionTwoMatrices.csproj", "{E6819FC1-6149-4447-B9A8-71FEA27B0B29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.IntersectionTwoMatrices", "03.IntersectionTwoMatrices\03.IntersectionTwoMatrices.csproj", "{E6819FC1-6149-4447-B9A8-71FEA27B0B29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumMatrixElements", "04.SumMatrixElements\04.SumMatrixElements.csproj", "{9EC57CC6-5A6A-4304-A9B8-553F72016B81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SumMatrixElements", "04.SumMatrixElements\04.SumMatrixElements.csproj", "{9EC57CC6-5A6A-4304-A9B8-553F72016B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.FillTheMatrix", "08.FillTheMatrix\08.FillTheMatrix.csproj", "{8051FA93-340F-4905-B94B-89F60E63C16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.FillTheMatrix", "08.FillTheMatrix\08.FillTheMatrix.csproj", "{8051FA93-340F-4905-B94B-89F60E63C16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.RowSumAndColumnSum", "09.RowSumAndColumnSum\09.RowSumAndColumnSum.csproj", "{3C1357D0-65A5-4010-8521-C459D5E5C424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TransposeOfMatrix", "05.TransposeOfMatrix\05.TransposeOfMatrix.csproj", "{CD6D3C86-B805-4ADD-94C1-41F02A1F693C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{8051FA93-340F-4905-B94B-89F60E63C16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8051FA93-340F-4905-B94B-89F60E63C16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8051FA93-340F-4905-B94B-89F60E63C16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1357D0-65A5-4010-8521-C459D5E5C424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1357D0-65A5-4010-8521-C459D5E5C424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1357D0-65A5-4010-8521-C459D5E5C424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1357D0-65A5-4010-8521-C459D5E5C424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6D3C86-B805-4ADD-94C1-41F02A1F693C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6D3C86-B805-4ADD-94C1-41F02A1F693C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6D3C86-B805-4ADD-94C1-41F02A1F693C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6D3C86-B805-4ADD-94C1-41F02A1F693C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
