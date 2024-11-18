@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRealNumbers", "01.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageStudentsGrades", "02.AverageStudentsGrades\02.AverageStudentsGrades.csproj", "{6433C3A5-E14C-40C6-A0D2-6A0193FB833D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountSymbols", "03.CountSymbols\03.CountSymbols.csproj", "{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Phonebook", "04.Phonebook\04.Phonebook.csproj", "{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6433C3A5-E14C-40C6-A0D2-6A0193FB833D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6433C3A5-E14C-40C6-A0D2-6A0193FB833D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6433C3A5-E14C-40C6-A0D2-6A0193FB833D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
