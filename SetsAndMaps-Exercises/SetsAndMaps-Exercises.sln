@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{784963C5-53ED-4E46-B35D-A04310C51B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{784963C5-53ED-4E46-B35D-A04310C51B48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageStudentsGrades", "02.AverageStudentsGrades\02.AverageStudentsGrades.csproj", "{6433C3A5-E14C-40C6-A0D2-6A0193FB833D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AverageStudentsGrades", "02.AverageStudentsGrades\02.AverageStudentsGrades.csproj", "{6433C3A5-E14C-40C6-A0D2-6A0193FB833D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountSymbols", "03.CountSymbols\03.CountSymbols.csproj", "{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CountSymbols", "03.CountSymbols\03.CountSymbols.csproj", "{EB7662F7-2ADF-4D58-BC62-05EE7DDD54AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Phonebook", "04.Phonebook\04.Phonebook.csproj", "{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Phonebook", "04.Phonebook\04.Phonebook.csproj", "{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PopulationCounter", "06.PopulationCounter\06.PopulationCounter.csproj", "{30018299-AE78-467C-B685-85B6272FA369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.WordSynonyms", "07.WordSynonyms\07.WordSynonyms.csproj", "{1EEEB3BC-B44F-4D35-A1E1-4B6A8AD75620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.OddOccurrences", "08.OddOccurrences\08.OddOccurrences.csproj", "{E5CD24F9-D0BB-44F9-A084-621AFA775F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.WordFilter", "09.WordFilter\09.WordFilter.csproj", "{2C43B4A6-B549-43D9-8F0D-6213E8F84524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4A07A9F-B311-46BA-B1AB-E08AB8578B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30018299-AE78-467C-B685-85B6272FA369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30018299-AE78-467C-B685-85B6272FA369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30018299-AE78-467C-B685-85B6272FA369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30018299-AE78-467C-B685-85B6272FA369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEEB3BC-B44F-4D35-A1E1-4B6A8AD75620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEEB3BC-B44F-4D35-A1E1-4B6A8AD75620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEEB3BC-B44F-4D35-A1E1-4B6A8AD75620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEEB3BC-B44F-4D35-A1E1-4B6A8AD75620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CD24F9-D0BB-44F9-A084-621AFA775F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CD24F9-D0BB-44F9-A084-621AFA775F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CD24F9-D0BB-44F9-A084-621AFA775F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CD24F9-D0BB-44F9-A084-621AFA775F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C43B4A6-B549-43D9-8F0D-6213E8F84524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C43B4A6-B549-43D9-8F0D-6213E8F84524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C43B4A6-B549-43D9-8F0D-6213E8F84524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C43B4A6-B549-43D9-8F0D-6213E8F84524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
